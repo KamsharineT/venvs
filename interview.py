@@ -1,3 +1,5 @@
+''' The Question from the interviewer '''
+
 import json
 # You are tasked with analyzing health insurance claims data represented in a JSON format. The data includes information about patients and their associated claims. You need to perform several tasks to extract insights and analyze patterns in the claims data.
 
